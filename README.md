@@ -10,6 +10,7 @@ zzxCoding 的个人博客
 
 ### 最新
 
+* [linux攻略](http://www.zzxcoding.club/articles/2019/10/26/1572058776128.html)
 * [QAQ这博客系统不错，给大家安利一下](http://www.zzxcoding.club/articles/2019/10/26/1572026997555.html)
 * [世界，你好！](http://www.zzxcoding.club/hello-solo)
 
